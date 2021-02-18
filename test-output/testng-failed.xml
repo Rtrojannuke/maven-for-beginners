@@ -5,7 +5,9 @@
     <classes>
       <class name="test.login">
         <methods>
-          <include name="log"/>
+          <include name="arun"/>
+          <include name="brun"/>
+          <include name="logn"/>
         </methods>
       </class> <!-- test.login -->
     </classes>
